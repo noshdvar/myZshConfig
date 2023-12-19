@@ -60,25 +60,15 @@ ZSH_THEME="agnoster"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
-  github
   gitignore
-  go
-  golang
   debian
   ubuntu
-  dotenv
-  bundler
   docker
   docker-compose
   docker-machine
   common-aliases
   dirhistory
-  jira
   nmap
-  postgres
-  python
-  tmux
-  tmux-cssh
   vscode
   wakeonlan
 )
